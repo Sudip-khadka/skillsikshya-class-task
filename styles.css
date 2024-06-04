@@ -41,12 +41,11 @@ h2{
     display:flex;
     gap:5px;
 }
-main{
+.main{
     height:90%;
     width:100%;
-    display:flex;
+    display: flex;
     flex-direction: row;
-    overflow: hidden;
 }
 .textleft{
     margin-left: 80px;
